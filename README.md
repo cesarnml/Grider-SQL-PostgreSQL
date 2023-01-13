@@ -2,12 +2,16 @@
 
 - [Grider - SQL and PostgreSQL Course](#grider---sql-and-postgresql-course)
   - [Lessons](#lessons)
+  - [Notes](#notes)
+    - [Lesson 01](#lesson-01)
+    - [Lesson 02](#lesson-02)
+    - [Lesson 03](#lesson-03)
 
 ## Lessons
 
-- [ ] Lesson 001 - What is PostgreSQL All About
-- [ ] Lesson 002 - Database Design
-- [ ] Lesson 003 - Creating Tables
+- [x] ~~_Lesson 001 - What is PostgreSQL All About_~~ [2023-01-13]
+- [x] ~~_Lesson 002 - Database Design_~~ [2023-01-13]
+- [x] ~~_Lesson 003 - Creating Tables_~~ [2023-01-13]
 - [ ] Lesson 004 - Analyzing CREATE TABLE
 - [ ] Lesson 005 - Inserting Data into a Table
 - [ ] Lesson 006 - Retrieving Data with Select
@@ -285,3 +289,37 @@
 - [ ] Lesson 278
 - [ ] Lesson 279
 - [ ] Lesson 280
+
+## Notes
+
+### Lesson 01
+
+- Challenges of Postgres
+  - Writing efficient queries to _retrieve_ information
+  - Designing the schema, or structure, of the database
+  - Understanding when to use advanced features
+  - Managing the database in a production environment
+
+### Lesson 02
+
+- Database Design Process
+
+  - What king of _thing_ are we storing?
+  - What _properties_ does this thing have?
+  - What _type_ of data does each of those properties contain?
+
+- In SQL:
+  - _thing_ maps to _Table_
+  - _properties_ maps to _columns_ on the Table
+  - _type_ maps to a column's _data type_
+
+![](./images/Screenshot%202023-01-13%20at%2016.38.41.png)
+
+- _Table_ stores a _collection of records_
+- Each _column_ stores on record property (with a specific data type)
+
+### Lesson 03
+
+- First query:
+
+![](./images/Screenshot%202023-01-13%20at%2016.50.52.png)
