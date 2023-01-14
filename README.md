@@ -6,13 +6,14 @@
     - [Lesson 01](#lesson-01)
     - [Lesson 02](#lesson-02)
     - [Lesson 03](#lesson-03)
+    - [Lesson 04](#lesson-04)
 
 ## Lessons
 
 - [x] ~~_Lesson 001 - What is PostgreSQL All About_~~ [2023-01-13]
 - [x] ~~_Lesson 002 - Database Design_~~ [2023-01-13]
 - [x] ~~_Lesson 003 - Creating Tables_~~ [2023-01-13]
-- [ ] Lesson 004 - Analyzing CREATE TABLE
+- [x] ~~_Lesson 004 - Analyzing CREATE TABLE_~~ [2023-01-14]
 - [ ] Lesson 005 - Inserting Data into a Table
 - [ ] Lesson 006 - Retrieving Data with Select
 - [ ] Lesson 007 - Calculate Columns
@@ -323,3 +324,9 @@
 - First query:
 
 ![](./images/Screenshot%202023-01-13%20at%2016.50.52.png)
+
+### Lesson 04
+
+![](images/Screenshot%202023-01-14%20at%2015.34.16.png)
+
+- Integer causes a buffer overflow above/below `2 trillion`
