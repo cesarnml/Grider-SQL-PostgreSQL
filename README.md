@@ -20,276 +20,276 @@
 - [ ] Lesson 008 - Calculating Phone Revenue
 - [ ] Lesson 009 - Exercise Solution
 - [ ] Lesson 010 - String Operators and Functions
-- [ ] Lesson 011
-- [ ] Lesson 012
-- [ ] Lesson 013
-- [ ] Lesson 014
-- [ ] Lesson 015
-- [ ] Lesson 016
-- [ ] Lesson 017
-- [ ] Lesson 018
-- [ ] Lesson 019
-- [ ] Lesson 020
-- [ ] Lesson 021
-- [ ] Lesson 022
-- [ ] Lesson 023
-- [ ] Lesson 024
-- [ ] Lesson 025
-- [ ] Lesson 026
-- [ ] Lesson 027
-- [ ] Lesson 028
-- [ ] Lesson 029
-- [ ] Lesson 030
-- [ ] Lesson 031
-- [ ] Lesson 032
-- [ ] Lesson 033
-- [ ] Lesson 034
-- [ ] Lesson 035
-- [ ] Lesson 036
-- [ ] Lesson 037
-- [ ] Lesson 038
-- [ ] Lesson 039
-- [ ] Lesson 040
-- [ ] Lesson 041
-- [ ] Lesson 042
-- [ ] Lesson 043
-- [ ] Lesson 044
-- [ ] Lesson 045
-- [ ] Lesson 046
-- [ ] Lesson 047
-- [ ] Lesson 048
-- [ ] Lesson 049
-- [ ] Lesson 050
-- [ ] Lesson 051
-- [ ] Lesson 052
-- [ ] Lesson 053
-- [ ] Lesson 054
-- [ ] Lesson 055
-- [ ] Lesson 056
-- [ ] Lesson 057
-- [ ] Lesson 058
-- [ ] Lesson 059
-- [ ] Lesson 060
-- [ ] Lesson 061
-- [ ] Lesson 062
-- [ ] Lesson 063
-- [ ] Lesson 064
-- [ ] Lesson 065
-- [ ] Lesson 066
-- [ ] Lesson 067
-- [ ] Lesson 068
-- [ ] Lesson 069
-- [ ] Lesson 070
-- [ ] Lesson 071
-- [ ] Lesson 072
-- [ ] Lesson 073
-- [ ] Lesson 074
-- [ ] Lesson 075
-- [ ] Lesson 076
-- [ ] Lesson 077
-- [ ] Lesson 078
-- [ ] Lesson 079
-- [ ] Lesson 080
-- [ ] Lesson 081
-- [ ] Lesson 082
-- [ ] Lesson 083
-- [ ] Lesson 084
-- [ ] Lesson 085
-- [ ] Lesson 086
-- [ ] Lesson 087
-- [ ] Lesson 088
-- [ ] Lesson 089
-- [ ] Lesson 090
-- [ ] Lesson 091
-- [ ] Lesson 092
-- [ ] Lesson 093
-- [ ] Lesson 094
-- [ ] Lesson 095
-- [ ] Lesson 096
-- [ ] Lesson 097
-- [ ] Lesson 098
-- [ ] Lesson 099
-- [ ] Lesson 100
-- [ ] Lesson 101
-- [ ] Lesson 102
-- [ ] Lesson 103
-- [ ] Lesson 104
-- [ ] Lesson 105
-- [ ] Lesson 106
-- [ ] Lesson 107
-- [ ] Lesson 108
-- [ ] Lesson 109
-- [ ] Lesson 110
-- [ ] Lesson 111
-- [ ] Lesson 112
-- [ ] Lesson 113
-- [ ] Lesson 114
-- [ ] Lesson 115
-- [ ] Lesson 116
-- [ ] Lesson 117
-- [ ] Lesson 118
-- [ ] Lesson 119
-- [ ] Lesson 120
-- [ ] Lesson 121
-- [ ] Lesson 122
-- [ ] Lesson 123
-- [ ] Lesson 124
-- [ ] Lesson 125
-- [ ] Lesson 126
-- [ ] Lesson 127
-- [ ] Lesson 128
-- [ ] Lesson 129
-- [ ] Lesson 130
-- [ ] Lesson 131
-- [ ] Lesson 132
-- [ ] Lesson 133
-- [ ] Lesson 134
-- [ ] Lesson 135
-- [ ] Lesson 136
-- [ ] Lesson 137
-- [ ] Lesson 138
-- [ ] Lesson 139
-- [ ] Lesson 140
-- [ ] Lesson 141
-- [ ] Lesson 142
-- [ ] Lesson 143
-- [ ] Lesson 144
-- [ ] Lesson 145
-- [ ] Lesson 146
-- [ ] Lesson 147
-- [ ] Lesson 148
-- [ ] Lesson 149
-- [ ] Lesson 150
-- [ ] Lesson 151
-- [ ] Lesson 152
-- [ ] Lesson 153
-- [ ] Lesson 154
-- [ ] Lesson 155
-- [ ] Lesson 156
-- [ ] Lesson 157
-- [ ] Lesson 158
-- [ ] Lesson 159
-- [ ] Lesson 160
-- [ ] Lesson 161
-- [ ] Lesson 162
-- [ ] Lesson 163
-- [ ] Lesson 164
-- [ ] Lesson 165
-- [ ] Lesson 166
-- [ ] Lesson 167
-- [ ] Lesson 168
-- [ ] Lesson 169
-- [ ] Lesson 170
-- [ ] Lesson 171
-- [ ] Lesson 172
-- [ ] Lesson 173
-- [ ] Lesson 174
-- [ ] Lesson 175
-- [ ] Lesson 176
-- [ ] Lesson 177
-- [ ] Lesson 178
-- [ ] Lesson 179
-- [ ] Lesson 180
-- [ ] Lesson 181
-- [ ] Lesson 182
-- [ ] Lesson 183
-- [ ] Lesson 184
-- [ ] Lesson 185
-- [ ] Lesson 186
-- [ ] Lesson 187
-- [ ] Lesson 188
-- [ ] Lesson 189
-- [ ] Lesson 190
-- [ ] Lesson 191
-- [ ] Lesson 192
-- [ ] Lesson 193
-- [ ] Lesson 194
-- [ ] Lesson 195
-- [ ] Lesson 196
-- [ ] Lesson 197
-- [ ] Lesson 198
-- [ ] Lesson 199
-- [ ] Lesson 200
-- [ ] Lesson 201
-- [ ] Lesson 202
-- [ ] Lesson 203
-- [ ] Lesson 204
-- [ ] Lesson 205
-- [ ] Lesson 206
-- [ ] Lesson 207
-- [ ] Lesson 208
-- [ ] Lesson 209
-- [ ] Lesson 210
-- [ ] Lesson 211
-- [ ] Lesson 212
-- [ ] Lesson 213
-- [ ] Lesson 214
-- [ ] Lesson 215
-- [ ] Lesson 216
-- [ ] Lesson 217
-- [ ] Lesson 218
-- [ ] Lesson 219
-- [ ] Lesson 220
-- [ ] Lesson 221
-- [ ] Lesson 222
-- [ ] Lesson 223
-- [ ] Lesson 224
-- [ ] Lesson 225
-- [ ] Lesson 226
-- [ ] Lesson 227
-- [ ] Lesson 228
-- [ ] Lesson 229
-- [ ] Lesson 230
-- [ ] Lesson 231
-- [ ] Lesson 232
-- [ ] Lesson 233
-- [ ] Lesson 234
-- [ ] Lesson 235
-- [ ] Lesson 236
-- [ ] Lesson 237
-- [ ] Lesson 238
-- [ ] Lesson 239
-- [ ] Lesson 240
-- [ ] Lesson 241
-- [ ] Lesson 242
-- [ ] Lesson 243
-- [ ] Lesson 244
-- [ ] Lesson 245
-- [ ] Lesson 246
-- [ ] Lesson 247
-- [ ] Lesson 248
-- [ ] Lesson 249
-- [ ] Lesson 250
-- [ ] Lesson 251
-- [ ] Lesson 252
-- [ ] Lesson 253
-- [ ] Lesson 254
-- [ ] Lesson 255
-- [ ] Lesson 256
-- [ ] Lesson 257
-- [ ] Lesson 258
-- [ ] Lesson 259
-- [ ] Lesson 260
-- [ ] Lesson 261
-- [ ] Lesson 262
-- [ ] Lesson 263
-- [ ] Lesson 264
-- [ ] Lesson 265
-- [ ] Lesson 266
-- [ ] Lesson 267
-- [ ] Lesson 268
-- [ ] Lesson 269
-- [ ] Lesson 270
-- [ ] Lesson 271
-- [ ] Lesson 272
-- [ ] Lesson 273
-- [ ] Lesson 274
-- [ ] Lesson 275
-- [ ] Lesson 276
-- [ ] Lesson 277
-- [ ] Lesson 278
-- [ ] Lesson 279
-- [ ] Lesson 280
+- [ ] Lesson 011 - Filtering Rows with "Where"
+- [ ] Lesson 012 - More on the "Where" Keyword
+- [ ] Lesson 013 - Compound "Where" Clauses
+- [ ] Lesson 014 - A "Where" Exercise Overview
+- [ ] Lesson 015 - A "Where" Solution
+- [ ] Lesson 016 - "Where" With Lists 
+- [ ] Lesson 017 - A "Where" With Lists Solution
+- [ ] Lesson 018 - Calculations in "Where" Clauses
+- [ ] Lesson 019 - Solving Calculations
+- [ ] Lesson 020 - Updating Rows
+- [ ] Lesson 021 - Deleting Rows
+- [ ] Lesson 022 - A Solution for Updating Rows
+- [ ] Lesson 023 - Solution for Deleting Rows
+- [ ] Lesson 024 - The Plan Moving Forward
+- [ ] Lesson 025 - Approaching Database Design
+- [ ] Lesson 026 - One-to-Many and Many-to-One Relationships
+- [ ] Lesson 027 - One-to-One and Many-to-Many Relationships
+- [ ] Lesson 028 - Primary Keys and Foreign Keys
+- [ ] Lesson 029 - Understanding Foreign Keys
+- [ ] Lesson 030 - Auto-Generated ID's
+- [ ] Lesson 031 - Creating Foreign Keys Columns
+- [ ] Lesson 032 - Running Queries on Associated Data
+- [ ] Lesson 033 - Exercise Overview
+- [ ] Lesson 034 - Foreign Key Creation Solution
+- [ ] Lesson 035 - Foreign Key Constraints Around Insertion
+- [ ] Lesson 036 - Constraints Around Deletion
+- [ ] Lesson 037 - Testing Deletion Constraints
+- [ ] Lesson 038 - Setting Foreign Keys to null on Delete
+- [ ] Lesson 039 - Adding Some Complexity
+- [ ] Lesson 040 - Queries with Join and Aggregations
+- [ ] Lesson 041 - Joining Data from Different Tables
+- [ ] Lesson 042 - Another Quick Join
+- [ ] Lesson 043 - Exercise Overview
+- [ ] Lesson 044 - A Joinful Solution
+- [ ] Lesson 045 - Alternate Forms of Syntax
+- [ ] Lesson 046 - Missing Data in Joins
+- [ ] Lesson 047 - Why Wasn't It Included
+- [ ] Lesson 048 - Four Kinds of Joins
+- [ ] Lesson 049 - Each Join in Practice
+- [ ] Lesson 050 - Does Order Matter?
+- [ ] Lesson 051 - Exercise Overview
+- [ ] Lesson 052 - Two Possible Solutions
+- [ ] Lesson 053 - Where with Join
+- [ ] Lesson 054 - Three Way Joins
+- [ ] Lesson 055 - A Bit of Practice
+- [ ] Lesson 056 - Exercise Solution
+- [ ] Lesson 057 - Aggregating and Grouping 
+- [ ] Lesson 058 - Picturing Group By
+- [ ] Lesson 059 - Aggregate Functions
+- [ ] Lesson 060 - Combining Group By and Aggregates
+- [ ] Lesson 061 - A Gotcha with Count
+- [ ] Lesson 062 - Visualizing More Grouping
+- [ ] Lesson 063 - Exercise Overview
+- [ ] Lesson 064 - Grouping Solution
+- [ ] Lesson 065 - Adding a Layer of Difficult
+- [ ] Lesson 066 - Solution
+- [ ] Lesson 067 - Filtering Groups with Having
+- [ ] Lesson 068 - Having in Action
+- [ ] Lesson 069 - More on Having!
+- [ ] Lesson 070 - A Having Exercise Overview
+- [ ] Lesson 071 - A Quick Solution
+- [ ] Lesson 072 - Investigating This Dataset
+- [ ] Lesson 073 - Some Group By Practice
+- [ ] Lesson 074 - Group By Review Solution
+- [ ] Lesson 075 - Remember Joins?
+- [ ] Lesson 076 - Of Course You Remember!
+- [ ] Lesson 077 - The Basics of Sorting
+- [ ] Lesson 078 - Two Variations on Sorting
+- [ ] Lesson 079 - Offset and Limit 
+- [ ] Lesson 080 - Exercise Overview
+- [ ] Lesson 081 - Exercise Solution
+- [ ] Lesson 082 - Handling Sets with Union
+- [ ] Lesson 083 - A Few Notes on Union
+- [ ] Lesson 084 - Commonalities with Intersect
+- [ ] Lesson 085 - Removing Commonalities with Except
+- [ ] Lesson 086 - Union Exercise Overview
+- [ ] Lesson 087 - Exercise Solution
+- [ ] Lesson 088 - What's a Subquery?
+- [ ] Lesson 089 - Thinking About the Structure of Data
+- [ ] Lesson 090 - Subqueries in a Select
+- [ ] Lesson 091 - Exercise Overview
+- [ ] Lesson 092 - Select Solution
+- [ ] Lesson 093 - Subqueries in a From
+- [ ] Lesson 094 - From Subqueries that Return a Value
+- [ ] Lesson 095 - Example of a Subquery in a From
+- [ ] Lesson 096 - Exercise Overview
+- [ ] Lesson 097 - Exercise Solution
+- [ ] Lesson 098 - Subqueries in a Join Clause
+- [ ] Lesson 099 - More Useful - Subqueries with Where
+- [ ] Lesson 100 - Data Structure with Where Subqueries
+- [ ] Lesson 101 - Exercise Overview
+- [ ] Lesson 102 - Exercise Solution 
+- [ ] Lesson 103 - The Not in Operator with a List
+- [ ] Lesson 104 - A New Where Operator
+- [ ] Lesson 105 - Finally Some!
+- [ ] Lesson 106 - Exercise Overview
+- [ ] Lesson 107 - A Quick Solution
+- [ ] Lesson 108 - Probably Too Much About Correlated Subqueries
+- [ ] Lesson 109 - More on Correlated Subqueries
+- [ ] Lesson 110 - A Select Without a From?
+- [ ] Lesson 111 - Exercise Overview
+- [ ] Lesson 112 - Exercise Solution
+- [ ] Lesson 113 - Selecting Distinct Values
+- [ ] Lesson 114 - Exercise Overview
+- [ ] Lesson 115 - A Distinct Solution
+- [ ] Lesson 116 - The Greatest Value in a List
+- [ ] Lesson 117 - And the Least Value in a List!
+- [ ] Lesson 118 - The Case Keyword
+- [ ] Lesson 119 - PostgreSQL Installation on macOS
+- [ ] Lesson 120 - PGAdmin Setup on macOD
+- [ ] Lesson 121 - Postgres Installation on Windows
+- [ ] Lesson 122 - What'd We Just Do?
+- [ ] Lesson 123 - Data Types
+- [ ] Lesson 124 - Fast Rules on Numeric Data Types
+- [ ] Lesson 125 - More on Number Data Types
+- [ ] Lesson 126 - Reminder on Character Types
+- [ ] Lesson 127 - Boolean Data Types
+- [ ] Lesson 128 - Times, Dates, and Timestamps
+- [ ] Lesson 129 - Really Awesome Intervals
+- [ ] Lesson 130 - Thinking About Validation
+- [ ] Lesson 131 - Creating and Viewing Tables in PGAdmin
+- [ ] Lesson 132 - Applying a Null Constraint
+- [ ] Lesson 133 - Solving a Gotcha with Null Constraints
+- [ ] Lesson 134 - Default Column Values
+- [ ] Lesson 135 - Applying a Unique Constraint to One Column
+- [ ] Lesson 136 - Multi-Column Uniqueness
+- [ ] Lesson 137 - Adding a Validation Check
+- [ ] Lesson 138 - Checks Over Multiple Columns
+- [ ] Lesson 139 - So Where Are We Applying Validation?
+- [ ] Lesson 140 - Approaching More Complicated Designs
+- [ ] Lesson 141 - Using a SQL Design Tool
+- [ ] Lesson 142 - A Config-based Schema Designer
+- [ ] Lesson 143 - Here's the Plan
+- [ ] Lesson 144 - Rebuilding Some Schema
+- [ ] Lesson 145 - Requirements of a Like System
+- [ ] Lesson 146 - How Not to Design a Like System
+- [ ] Lesson 147 - Designing a Like System
+- [ ] Lesson 148 - Making a Reaction System Instead
+- [ ] Lesson 149 - Polymorphic Associations
+- [ ] Lesson 150 - Polymorphic Association Alternative Implementation
+- [ ] Lesson 151 - The Simplest Alternative
+- [ ] Lesson 152 - So Which Approach?
+- [ ] Lesson 153 - Additional Features Around Posts
+- [ ] Lesson 154 - Adding Captions and Locations
+- [ ] Lesson 155 - Photo Mentions vs Caption Mentions
+- [ ] Lesson 156 - Considerations on Photo Tags vs Caption Tags
+- [ ] Lesson 157 - Update for Tags
+- [ ] Lesson 158 - Designing a Hashtag System
+- [ ] Lesson 159 - Tables for Hashtags
+- [ ] Lesson 160 - Including the Hashtag Table
+- [ ] Lesson 161 - A Few More User Columns
+- [ ] Lesson 162 - Why No Number of Followers or Posts?
+- [ ] Lesson 163 - Designing a Follower System
+- [ ] Lesson 164 - Back to Postgres
+- [ ] Lesson 165 - Creating Tables with Checks
+- [ ] Lesson 166 - Posts Creation
+- [ ] Lesson 167 - Comments Creation
+- [ ] Lesson 168 - Likes Creation
+- [ ] Lesson 169 - Photo Tags and Caption Tags
+- [ ] Lesson 170 - Creating Hashtags, Hashtag Posts, and Followers
+- [ ] Lesson 171 - Adding Some Data
+- [ ] Lesson 172 - Restoring from Scratch
+- [ ] Lesson 173 - Highest User ID's Exercise
+- [ ] Lesson 174 - Solution for User ID's
+- [ ] Lesson 175 - Posts by a Particular User
+- [ ] Lesson 176 - Solving for Posts by User
+- [ ] Lesson 177 - Likes Per User
+- [ ] Lesson 178 - Solution for Likes Per User
+- [ ] Lesson 179 - Thinking About Performance
+- [ ] Lesson 180 - Where Does Postgres Store Data?
+- [ ] Lesson 181 - Heaps, Blocks, and Tuples
+- [ ] Lesson 182 - Block Data Layout
+- [ ] Lesson 183 - Heap File Layout
+- [ ] Lesson 184 - Full Table Scans
+- [ ] Lesson 185 - What's an Index
+- [ ] Lesson 186 - How an Index Works
+- [ ] Lesson 187 - Creating and Index
+- [ ] Lesson 188 - Benchmarking Queries
+- [ ] Lesson 189 - Downsides of Indexes
+- [ ] Lesson 190 - Index Types
+- [ ] Lesson 191 - Automatically Generated Indexes
+- [ ] Lesson 192 - Behind the Scenes of Indexes
+- [ ] Lesson 193 - The Query Processing Pipeline
+- [ ] Lesson 194 - Explain and Explain Analyze
+- [ ] Lesson 195 - Soling an Explain Mystery
+- [ ] Lesson 196 - Developing an Intuitive Understanding of Cost
+- [ ] Lesson 197 - Calculating Cost by Hand
+- [ ] Lesson 198 - A Touch More on Costs
+- [ ] Lesson 199 - Startup vs Total Costs
+- [ ] Lesson 200 - Costs Flow Up
+- [ ] Lesson 201 - Use My Index!
+- [ ] Lesson 202 - Common Table Expressions
+- [ ] Lesson 203 - A Quick Solution
+- [ ] Lesson 204 - So What's a CTE?
+- [ ] Lesson 205 - Recursive CTE's
+- [ ] Lesson 206 - Recursive CTE's Step by Step
+- [ ] Lesson 207 - Why Use Recursive CTE's?
+- [ ] Lesson 208 - Writing the Query
+- [ ] Lesson 209 - Walking Through Recursion
+- [ ] Lesson 210 - Most Popular Users
+- [ ] Lesson 211 - A Possible Solution for Merging Tables
+- [ ] Lesson 212 - Creating a View
+- [ ] Lesson 213 - When to Use a View?
+- [ ] Lesson 214 - Deleting and Changing Views
+- [ ] Lesson 215 - Materialized Views
+- [ ] Lesson 216 - Grouping by Week
+- [ ] Lesson 217 - Reminder on Left Joins
+- [ ] Lesson 218 - Writing a Slow Query
+- [ ] Lesson 219 - Creating and Refreshing Materialized Views
+- [ ] Lesson 220 - What are Transactions Used For?
+- [ ] Lesson 221 - Some Sample Data
+- [ ] Lesson 222 - Opening and Closing Transactions
+- [ ] Lesson 223 - Transaction Cleanup on Crash
+- [ ] Lesson 224 - Closing Aborted Transactions
+- [ ] Lesson 225 - A Story on Migrations
+- [ ] Lesson 226 - Migration Files
+- [ ] Lesson 227 - Issues Solved by Migrations
+- [ ] Lesson 228 - A Few Notes on Migrations Libraries
+- [ ] Lesson 229 - Project Creation
+- [ ] Lesson 230 - Generating and Writing Migrations
+- [ ] Lesson 231 - Applying and Reverting Migrations
+- [ ] Lesson 232 - Generating and Applying a Second Migration
+- [ ] Lesson 233 - Schema vs Data Migrations
+- [ ] Lesson 234 - Dangers Around Data Migrations
+- [ ] Lesson 235 - Properly Running Data and Schema Migrations
+- [ ] Lesson 236 - Creating a Posts Table
+- [ ] Lesson 237 - A Small Web Server
+- [ ] Lesson 238 - Adding the Loc Column
+- [ ] Lesson 239 - Writing Values to Both Columns
+- [ ] Lesson 240 - Transaction Locks
+- [ ] Lesson 241 - Updating Values
+- [ ] Lesson 242 - Updating the App Server
+- [ ] Lesson 243 - Dropping the Last Columns
+- [ ] Lesson 244 - Section Goal
+- [ ] Lesson 245 - Initial Setup
+- [ ] Lesson 246 - One Fast Migration
+- [ ] Lesson 247 - Building the Users Router
+- [ ] Lesson 248 - Understanding Connection Pools
+- [ ] Lesson 249 - Validating Connection Credentials
+- [ ] Lesson 250 - Query and Close
+- [ ] Lesson 251 - The Repository Pattern
+- [ ] Lesson 252 - Creating a Repository
+- [ ] Lesson 253 - Accessing the API
+- [ ] Lesson 254 - Casing Issues 
+- [ ] Lesson 255 - Fixing Casing
+- [ ] Lesson 256 - Finding Particular Users
+- [ ] Lesson 257 - SQL Injection Exploits
+- [ ] Lesson 258 - Handling SQL Injection with Prepared Statements
+- [ ] Lesson 259 - Preventing SQL Injection
+- [ ] Lesson 260 - Reminder on Post Requests
+- [ ] Lesson 261 - Inserting Users
+- [ ] Lesson 262 - Handling Updates
+- [ ] Lesson 263 - And, Finally, Delete
+- [ ] Lesson 264 - A Note on Testing
+- [ ] Lesson 265 - Assertions Around User Count
+- [ ] Lesson 266 - Connecting to a DB for Tests
+- [ ] Lesson 267 - Disconnecting After Tests
+- [ ] Lesson 268 - Multi-DB Setup
+- [ ] Lesson 269 - Assumptions Around Content
+- [ ] Lesson 270 - Issues with Parallel Tests
+- [ ] Lesson 271 - Isolation with Schemas
+- [ ] Lesson 272 - Creating and Accessing Schemas
+- [ ] Lesson 273 - Controlling Schema Access with Search Paths
+- [ ] Lesson 274 - Routing Schema Access
+- [ ] Lesson 275 - Strategy for Isolation
+- [ ] Lesson 276 - Programmatic Schema Creation
+- [ ] Lesson 277 - Escaping Identifiers
+- [ ] Lesson 278 - Test Helpers
+- [ ] Lesson 279 - Cleaning up Schemas and Roles
+- [ ] Lesson 280 - Finally ... Parallel Tests! (Final Lecture)
 
 ## Notes
 
